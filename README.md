@@ -3,7 +3,7 @@
  <p align="center"> <img src="https://github.com/asmpro7/Nategalysis/assets/114514662/2f4e4c97-84ee-44d2-8aeb-d72764937b96" data-canonical-src="https://github.com/asmpro7/Nategalysis/assets/114514662/2f4e4c97-84ee-44d2-8aeb-d72764937b96" width="300" height="300" /><p>
 
  <p align="center"> <img src="https://img.shields.io/github/license/asmpro7/Nategalysis" alt="GitHub"></p>
-<h2 align="center" id="statis"Nategalysis make analysis and visualisation for whole class, school, administration, governorate Or for the whole country!
+<h2 align="center" id="nategalysis">Nategalysis make analysis and visualisation for whole class, school, administration, governorate Or for the whole country!
  📊✨</h2>
 </p>
 <h2 id="steps-to-get-started-">steps to get started:</h2>
